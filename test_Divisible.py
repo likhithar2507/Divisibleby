@@ -1,7 +1,7 @@
 import Divisible
 
 def test_divisible_5():
-    num=5
+    num=25
     result=Divisible.divisible_5(num)
     assert result == True
 
